@@ -1,0 +1,3 @@
+Write a function to parse a log file & extract details of Errors & Warnings recorded into a separate file.
+
+Problem Statement not clear and please provide a sample log file.
