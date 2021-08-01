@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Problem 1/group_by_owners/group_by_owners/group_by_owners.csproj
+/Problem 1/group_by_owners/group_by_owners.sln
